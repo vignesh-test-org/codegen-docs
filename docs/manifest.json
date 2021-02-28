@@ -1,0 +1,48 @@
+{
+    "routes": [
+      {
+        "title": "Documentation",
+        "heading": true,
+        "routes": [
+          { 
+            "title": "Getting Started", 
+            "open": true,
+            "routes": [
+              {
+                "title": "What is GraphQL Code Generator?",
+                "path": "/docs/getting-started/index.md"
+              },
+              {
+                "title": "Installation",
+                "path": "/docs/getting-started/installation.md"
+              }
+            ]
+          },
+          {
+            "title": "Plugins",
+            "open": true,
+            "routes": [
+              {
+                "title": "All Plugins",
+                "path": "/docs/plugins/index.md"
+              },
+              {
+                "title": "Typescript",
+                "open": true,
+                "routes": [
+                  {
+                    "title": "Typescript",
+                    "path": "/docs/plugins/typescript.md"
+                  },
+                  {
+                    "title": "Typescript Operations",
+                    "path": "/docs/plugins/typescript-operations.md"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
