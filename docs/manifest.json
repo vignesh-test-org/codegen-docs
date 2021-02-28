@@ -10,7 +10,7 @@
             "routes": [
               {
                 "title": "What is GraphQL Code Generator?",
-                "path": "/docs/getting-started/index.md"
+                "path": "/docs/getting-started.md"
               },
               {
                 "title": "Installation",
