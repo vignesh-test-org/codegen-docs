@@ -3,10 +3,12 @@
       {
         "title": "Documentation",
         "heading": true,
+        "key":"Documentation",
         "routes": [
           { 
             "title": "Getting Started", 
             "open": true,
+            "key":"Getting Started",
             "routes": [
               {
                 "title": "What is GraphQL Code Generator?",
@@ -21,6 +23,7 @@
           {
             "title": "Plugins",
             "open": true,
+            "key":"Plugins",
             "routes": [
               {
                 "title": "All Plugins",
