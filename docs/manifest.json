@@ -35,7 +35,7 @@
                 "routes": [
                   {
                     "title": "Typescript",
-                    "path": "/docs/plugins/typescript.md"
+                    "path": "/docs/plugins/typescript.mdx"
                   },
                   {
                     "title": "Typescript Operations",
